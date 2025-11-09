@@ -48,7 +48,7 @@ In cell C7, there is a drop-down, labelled as an input cell, which will have opt
 
 ### Sections that **SHOULD NOT** be Edited
 
-1) The most important sheet in this file is the 'Calcul de Diagram' section. This is not something that must be edited without informing someone, as these contain all the interlinked cells that lead to the calculations necessary within the flammability diagram.
+1) The most important sheet in this file is the 'Calcul de Diagram' section. This is something that MUST NOT be edited without informing someone, as these contain all the interlinked cells that lead to the calculations necessary within the flammability diagram.
 
 2) Anything in the cells outlined by a thick line below the flammability diagram should also not be touched, as it contains the essential equations for the purging calculations.
 
